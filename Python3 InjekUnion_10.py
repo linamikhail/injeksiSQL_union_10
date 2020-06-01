@@ -32,7 +32,7 @@ laman6 = (laman0) + ' ' + 'order by '+ kesatuan6 + '--'
 laman7 = (laman0) + ' ' + 'order by '+ kesatuan7 + '--' 
 laman8 = (laman0) + ' ' + 'order by '+ kesatuan8 + '--'
 laman9 = (laman0) + ' ' + 'order by '+ kesatuan9 + '--'
-laman0 = (laman0) + ' ' + 'order by '+ kesatuan10 + '--'
+laman10 = (laman0) + ' ' + 'order by '+ kesatuan10 + '--'
 
 print (laman0)
 print (laman1)
