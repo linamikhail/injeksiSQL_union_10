@@ -3,6 +3,6 @@ Menjalankan suntikan SQL secara 'union' tapi terhad kepada 10 bilangan sahaja. I
 
 Cara guna:
 
-1. Buka kod menggunakan Puthon 3 IDLE.
+1. Buka kod menggunakan Python 3 IDLE.
 2. Tekan F5 dan jalankan kod.
 3. Jangan salah gunakan ye.
